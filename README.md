@@ -63,4 +63,4 @@ You’re free to use, modify, and share the tool for any purpose—just keep thi
 
 Created by **SpaceNinja_007**  
 Powered by Unity creativity and nanos world imagination. 🌍🛠️  
-NanoForge is not affiliated with Unity
+**NanoForge is an independent, open-source tool designed to assist creators in converting their own content. It does not include or distribute any proprietary code from Unity Technologies or Epic Games, and is not affiliated with either company.**
